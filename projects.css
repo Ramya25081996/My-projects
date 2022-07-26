@@ -15,6 +15,9 @@
     width:85vw;
    margin:auto;
 }
+a{
+    text-decoration: none;
+}
 .part1{
     background-color: aliceblue;
 }
