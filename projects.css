@@ -30,7 +30,7 @@ a{
 }
 .part4{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .part5{
     background-color: aliceblue;
